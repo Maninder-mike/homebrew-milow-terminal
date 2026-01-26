@@ -1,7 +1,7 @@
 cask "milow-terminal" do
-  version "0.0.3.27"
-  sha256 "f0f2c47310700ffa60b6f1fef7041c854ffce4c62b0f18456436f06c4ea8feb7"
-  url "https://github.com/Maninder-mike/milow/releases/download/v0.0.3.27/MilowTerminal-v0.0.3.27-macos.zip"
+  version "0.0.3.30"
+  sha256 "2631cc129408cd7ac90565c4826d5bc8b3534c1301b9b4759552636b235a2e3c"
+  url "https://github.com/Maninder-mike/milow/releases/download/v0.0.3.30/MilowTerminal-v0.0.3.30-macos.zip"
   name "Milow Terminal"
   desc "Fleet management application for dispatchers and admins"
   homepage "https://github.com/Maninder-mike/milow"
